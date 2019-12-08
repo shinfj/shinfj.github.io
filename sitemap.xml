@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/project/prorender/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/computer-graphics/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/3/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kohei-takayama/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/toshiya-hachisuka/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wavelet-convolutional-neural-networks/</loc>
+    <lastmod>2018-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wavelet-convolutional-neural-networks-for-texture-classification/</loc>
+    <lastmod>2017-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/1/</loc>
+    <lastmod>2016-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/efficient-human-pose-estimation-in-video-using-fast-object-detection/</loc>
+    <lastmod>2016-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/kiyoharu-aizawa/</loc>
+    <lastmod>2016-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/toshihiko-yamasaki/</loc>
+    <lastmod>2016-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/human-pose-estimation-in-video-considering-temporal-consistency/</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+</urlset>
