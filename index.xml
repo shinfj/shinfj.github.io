@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Shin Fujieda</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Shin Fujieda</copyright><lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Shin Fujieda</copyright><lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Shin Fujieda</title>
@@ -13,26 +13,26 @@
     </image>
     
     <item>
-      <title>AMD Radeon ProRender</title>
-      <link>/project/prorender/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/project/prorender/</guid>
+      <title>Stochastic Light Culling for Single Scattering in Participating Media</title>
+      <link>/publication/stochastic-light-culling-for-single-scattering-in-participating-media/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/stochastic-light-culling-for-single-scattering-in-participating-media/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Adaptive Wavelet Network</title>
       <link>/publication/deep-adaptive-wavelet-network/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/publication/deep-adaptive-wavelet-network/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Stochastic Light Culling for Single Scattering in Participating Media</title>
-      <link>/publication/stochastic-light-culling-for-single-scattering-in-participating-media/</link>
+      <title>AMD Radeon ProRender</title>
+      <link>/project/prorender/</link>
       <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/stochastic-light-culling-for-single-scattering-in-participating-media/</guid>
+      <guid>/project/prorender/</guid>
       <description></description>
     </item>
     
