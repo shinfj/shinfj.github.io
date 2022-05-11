@@ -5,12 +5,20 @@
     <link>/authors/kohei-takayama/</link>
       <atom:link href="/authors/kohei-takayama/index.xml" rel="self" type="application/rss+xml" />
     <description>Kohei Takayama</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Shin Fujieda</copyright><lastBuildDate>Sun, 20 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Shin Fujieda</copyright><lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Kohei Takayama</title>
       <link>/authors/kohei-takayama/</link>
     </image>
+    
+    <item>
+      <title>Deep Adaptive Wavelet Network</title>
+      <link>/publication/deep-adaptive-wavelet-network/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/deep-adaptive-wavelet-network/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Wavelet Convolutional Neural Networks</title>

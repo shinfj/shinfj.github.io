@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Shin Fujieda</copyright><lastBuildDate>Sun, 20 May 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 Shin Fujieda</copyright><lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,27 +15,75 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Shin Fujieda is a software development engineer in the team of Workstation Graphics R&amp;amp;D in AMD Japan Ltd. In this team, he is in charge of developing a phisically-based rendering engine, &lt;a href=&#34;https://www.amd.com/en/technologies/radeon-prorender&#34;&gt;ProRender&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Before AMD Japan, he worked in IBM Japan as a data scientist. There, he was leading several projects relating with image processing.
+      <description>&lt;p&gt;Shin Fujieda is a software development engineer in the team of SARRG (Software Advanced Rendering Research Group) in AMD Inc. In this team, he is in charge of developing a phisically-based rendering engine, &lt;a href=&#34;https://gpuopen.com/radeon-pro-render/&#34;&gt;ProRender&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Before AMD, he worked in IBM Japan as a data scientist. There, he was leading several projects relating with image processing.
 And he spend two wonderful years in the University of Tokyo, supervised by &lt;a href=&#34;https://www.ci.i.u-tokyo.ac.jp/~hachisuka/&#34;&gt;Prof. Toshiya Hachisuka&lt;/a&gt;. He obtained his Master degree in Computer Graphics in 2018. He achieved his Bachelor degree under the supervision of &lt;a href=&#34;http://www.hal.t.u-tokyo.ac.jp/~yamasaki/index-e.html&#34;&gt;Prof. Toshihiko Yamasaki&lt;/a&gt; at the University of Tokyo in 2016.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Adrien Gruson</title>
+      <link>/authors/adrien-gruson/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/adrien-gruson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flavio Prieto Ortiz</title>
+      <link>/authors/flavio-prieto-ortiz/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/flavio-prieto-ortiz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kohei Takayama</title>
       <link>/authors/kohei-takayama/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/kohei-takayama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luisa F. Polania</title>
+      <link>/authors/luisa-f.-polania/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/luisa-f.-polania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Ximena Bastidas Rodriguez</title>
+      <link>/authors/maria-ximena-bastidas-rodriguez/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/maria-ximena-bastidas-rodriguez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Takahiro Harada</title>
+      <link>/authors/takahiro-harada/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/takahiro-harada/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toshiya Hachisuka</title>
       <link>/authors/toshiya-hachisuka/</link>
-      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/toshiya-hachisuka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yusuke Tokuyoshi</title>
+      <link>/authors/yusuke-tokuyoshi/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/yusuke-tokuyoshi/</guid>
       <description></description>
     </item>
     
